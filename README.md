@@ -51,7 +51,7 @@
 <h3 id="option-a-standard-installation-recommended-for-beginners">Option A: Standard Installation (Recommended for Beginners)</h3>
 <ol>
 <li>Visit the official Amazon Corretto (Java JDK) website:<br>
-👉 <a href="https://corretto.aws/downloads/latest/amazon-corretto-17-x64-windows-jdk.msi">https://corretto.aws/downloads/latest/amazon-corretto-17-x64-windows-jdk.msi</a> <em>(for 64-bit Windows)</em></li>
+👉 <a href="https://download.oracle.com/java/26/latest/jdk-26_windows-x64_bin.exe">https://corretto.aws/downloads/latest/amazon-corretto-17-x64-windows-jdk.msi</a> <em>(for 64-bit Windows)</em></li>
 <li>Download the installer file.</li>
 <li>Open the downloaded installer and click <strong>Next -&gt; Next -&gt; Install</strong> (keep default settings).</li>
 <li>Once completed, close and reopen your Terminal / Command Prompt and test again with <code>java -version</code>.</li>
