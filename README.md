@@ -7,7 +7,7 @@
   <br> <br><img src="https://github.com/nayeem-diu/hospital-management-system-using-oop-pillar/blob/main/Bed.png?raw=true" alt="A descriptive summary of the image"> <br> <br>
   <br> <br><img src="https://github.com/nayeem-diu/hospital-management-system-using-oop-pillar/blob/main/Patient.png?raw=true" alt="A descriptive summary of the image"> <br> <br>
 
-<li><strong>Command Line Interface (CLI):</strong> A text-based menu for terminal users.</li>
+<li><strong>Command Line Interface (CLI):</strong> A text-based menu for terminal users. (No image added)</li>
 </ol>
 <hr>
 <h2 id="-key-features">🌟 Key Features</h2>
