@@ -36,7 +36,7 @@
 </ul>
 </li>
 <li>Type the following command and press <strong>Enter</strong>:
-<pre><div style="color: rgb(171, 178, 191); text-shadow: rgba(0, 0, 0, 0.3) 0px 1px;"><span>java -version</span></div></pre>
+<pre><div style="color: rgb(171, 178, 191); text-shadow: rgba(0, 0, 0, 0.3) 0px 1px;"><span>java --version</span></div></pre>
 </li>
 <li><strong>What happens next?</strong>
 <ul>
