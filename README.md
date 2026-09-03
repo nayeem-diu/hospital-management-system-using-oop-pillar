@@ -3,6 +3,8 @@
 <p>It offers two simple interfaces:</p>
 <ol>
 <li><strong>Graphical User Interface (GUI):</strong> A modern visual screen with buttons, forms, and tables (recommended for most users).</li>
+  <br> <br><img src="https://github.com/nayeem-diu/hospital-management-system-using-oop-pillar/blob/main/deshBoard.png?raw=true" alt="A descriptive summary of the image"> <br> <br>
+
 <li><strong>Command Line Interface (CLI):</strong> A text-based menu for terminal users.</li>
 </ol>
 <hr>
